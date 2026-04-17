@@ -24,4 +24,10 @@
 			"binding": "LOADER",
 		},
 	],
+	"kv_namespaces": [
+    {
+      "binding": "SESSION", 
+      "id": "914c1efb510b4c058abaa94a9028792d"
+    }
+  	],
 }
